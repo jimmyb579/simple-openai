@@ -1,4 +1,4 @@
-# 📌 Simple-OpenAI
+Simple-OpenAI
 A Java library to use the OpenAI Api in the simplest possible way.
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=sashirestela_simple-openai&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=sashirestela_simple-openai)
